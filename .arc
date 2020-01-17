@@ -5,6 +5,7 @@ ship-ti6
 
 @http
 post /graphql
+get /
 
 @tables
 data
